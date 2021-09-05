@@ -1,0 +1,41 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "vampire.moc3",
+		"Textures": [
+			"vampire.4096/texture_00.png"
+		],
+		"Physics": "vampire.physics3.json",
+		"DisplayInfo": "vampire.cdi3.json",
+		"Expressions": [
+			{
+				"Name": "expression1",
+				"File": "black.exp3.json"
+			},
+			{
+				"Name": "expression2",
+				"File": "red.exp3.json"
+			},
+			{
+				"Name": "expression3",
+				"File": "dai .exp3.json"
+			}
+		]
+	},
+	"Groups": [
+		{
+			"Target": "Parameter",
+			"Name": "LipSync",
+			"Ids": []
+		},
+		{
+			"Target": "Parameter",
+			"Name": "EyeBlink",
+			"Ids": [
+				"ParamEyeROpen",
+				"ParamEyeLOpen"
+			]
+		}
+	],
+	"HitAreas": []
+}
