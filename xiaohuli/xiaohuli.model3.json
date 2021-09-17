@@ -1,0 +1,26 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "xiaohuli.moc3",
+		"Textures": [
+			"xiaohuli.4096/texture_00.png"
+		],
+		"Physics": "xiaohuli.physics3.json",
+		"DisplayInfo": "xiaohuli.cdi3.json"
+	},
+	"Groups": [
+		{
+			"Target": "Parameter",
+			"Name": "EyeBlink",
+			"Ids": [
+				"ParamEyeLOpen",
+				"ParamEyeROpen"
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Name": "LipSync",
+			"Ids": []
+		}
+	]
+}
