@@ -1,6 +1,10 @@
 # vampire-model-oepn
 
-A Live2D model (named vampire) by someone and someone.
+We vampire collected some Live2D model for free access(?)...
+
+A Live2D model (named vampire) by 虾仁饭 and 三十ShinyMoom.
+
+A Live2D model (named xiaohuli) by [月灰灰](https://space.bilibili.com/105081005) and 神谷繁_Official.
 
 If you are about to make some modification, be sure to tell me or fork this repo. Thanks~
 
